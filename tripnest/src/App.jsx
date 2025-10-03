@@ -1,22 +1,31 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import HeroCarousel from "./components/HeroCarousel";
-import Features from "./components/Features";
 
 import Footer from "./components/Footer";
 
+// Pages
+import Destinations from "./pages/Destinations";
+import Login from "./pages/Login1";
+import Signup from "./pages/Signup";
+import Home from "./pages/Home";
+
 function App() {
   return (
-    <div className="font-sans bg-gray-50 min-h-screen flex flex-col">
-      <Navbar />
-      <HeroCarousel />
-      <Features />
-      <div className="text-center mt-10 mb-16">
-        <button className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">
-          Get Started
-        </button>
+    <Router>
+      <div className="font-sans bg-gray-50 min-h-screen flex flex-col">
+        <Navbar />
+
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/destinations" element={<Destinations />} />
+         <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} /> 
+        </Routes>
+
+        <Footer />
       </div>
-      <Footer />
-    </div>
+    </Router>
   );
 }
+
 export default App;
