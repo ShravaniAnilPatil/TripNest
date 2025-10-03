@@ -1,25 +1,22 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import './index.css';
+import Navbar from "./components/Navbar";
+import HeroCarousel from "./components/HeroCarousel";
+import Features from "./components/Features";
+
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="h-screen flex items-center justify-center bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-      <div className="p-10 bg-white/10 backdrop-blur-lg rounded-2xl shadow-2xl text-center border border-white/20">
-        <h1 className="text-white text-5xl font-extrabold drop-shadow-lg mb-6 animate-pulse">
-          🚀 Tailwind is working!
-        </h1>
-        <p className="text-white/80 text-lg mb-4">
-          Styled with <span className="font-semibold text-yellow-300">Vite + Tailwind</span>
-        </p>
-        <button className="px-6 py-3 bg-white text-purple-600 font-bold rounded-xl shadow-lg hover:scale-105 hover:bg-yellow-300 transition-transform duration-300">
-          Click Me ✨
+    <div className="font-sans bg-gray-50 min-h-screen flex flex-col">
+      <Navbar />
+      <HeroCarousel />
+      <Features />
+      <div className="text-center mt-10 mb-16">
+        <button className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">
+          Get Started
         </button>
       </div>
+      <Footer />
     </div>
   );
 }
-
 export default App;
