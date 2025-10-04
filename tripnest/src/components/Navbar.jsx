@@ -17,9 +17,10 @@ const Navbar = () => {
         <div className="hidden md:flex gap-8 text-lg">
           <Link to="/" className="hover:text-blue-500">Home</Link>
           <Link to="/features" className="hover:text-blue-500">Features</Link>
+          <Link to="/recommend" className="hover:text-blue-500">SmartGuide</Link>
           <Link to="/destinations" className="hover:text-blue-500">Destinations</Link>
           <Link to="/login" className="hover:text-blue-500">Login</Link>
-
+          
         </div>
 
         {/* Mobile Menu Button */}

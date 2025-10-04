@@ -1,0 +1,201 @@
+name,country,type,budget,activities,climate,best_time,rating
+Sydney,UAE,Beach,92156,heritage|culture,tropical,Apr-Jun,4.3
+New York,Oman,Mountain,50487,nature|trekking|romance,mediterranean,Apr-Jun,4.4
+Stockholm,France,Hill,26412,romance|snow,cold,May-Sep,3.7
+Istanbul,Qatar,Mountain,64147,shopping|nightlife|beach,alpine,Jan-Mar,3.9
+Cairo,Jordan,Backwater,72766,surf|romance|nightlife|heritage|temples,subarctic,Jul-Sep,4.3
+Manali,New Zealand,Backwater,95294,trekking|heritage|scuba,arid,Apr-Jun,4.4
+Jerusalem,Brazil,Island,35127,culture|trekking,cold,May-Sep,4.9
+Jerusalem,New Zealand,Mountain,30652,shopping|food|festival|snow,arid,Mar-May|Sep-Nov,3.9
+Mumbai,Cambodia,Mountain,79078,nature|heritage|scuba|culture,mediterranean,Jul-Sep,4.8
+Oslo,Thailand,Heritage,37823,food|surf,temperate,Mar-May|Sep-Nov,4.4
+Kathmandu,Denmark,Adventure,69213,surf|wildlife|festival|scuba,temperate,Nov-Feb,4.4
+Santorini,Russia,Hill,91205,nature|culture|festival|surf|temples,cold,Jul-Sep,4.2
+Seychelles,Spain,Adventure,65303,wildlife|festival|scuba|snow|surf,cold,Jul-Sep,4.7
+Kandy,South Korea,Backwater,95956,wildlife|nature|nightlife|trekking,tropical,Mar-May|Sep-Nov,4.5
+Mumbai,Turkey,Heritage,30346,heritage|adventure|festival|romance,tropical,Jan-Mar,3.8
+Belfast,Japan,Hill,73094,nightlife|wildlife,cold,Nov-Feb,3.6
+Maldives,Morocco,Hill,68632,wildlife|trekking|beach|culture|shopping,tropical,Nov-Feb,4.6
+New York,Qatar,Forest,94802,food|culture|temples,continental,Apr-Jun,4.7
+Belfast,Ireland,Beach,62743,festival|food,continental,May-Sep,4.5
+Gold Coast,Brazil,Heritage,32528,scuba|shopping|romance|heritage|snow,arid,Jul-Sep,4.1
+Muscat,Oman,Backwater,45292,culture|relax,cold,Jan-Mar,3.9
+Brisbane,South Korea,Desert,69772,scuba|surf,arid,Nov-Feb,4.8
+Mauritius,Russia,Backwater,74649,beach|scuba|shopping|adventure,temperate,May-Sep,3.7
+Zurich,Singapore,Heritage,47887,nightlife|adventure|nature|temples|scuba,temperate,Apr-Jun,4.0
+Zurich,Morocco,Backwater,52171,shopping|temples|beach,alpine,May-Sep,5.0
+Reykjavik,Japan,City,50334,heritage|shopping|relax,subarctic,Apr-Jun,4.0
+Tokyo,Fiji,Forest,34985,shopping|adventure,alpine,Jul-Sep,4.1
+Nice,Malaysia,Desert,75123,adventure|culture|shopping|snow,mediterranean,May-Sep,3.7
+Wellington,Vietnam,Beach,93811,food|heritage|scuba|nature,mediterranean,Jul-Sep,3.7
+Belfast,Ireland,City,71783,surf|wildlife,mediterranean,Jul-Sep,4.8
+Goa,Taiwan,Desert,96607,relax|adventure|heritage|temples,arid,Jan-Mar,5.0
+Lisbon,Russia,Hill,89033,adventure|surf,temperate,May-Sep,4.6
+Rajasthan,Egypt,City,50071,culture|heritage,alpine,May-Sep,3.5
+Sydney,Canada,Island,21358,shopping|festival|scuba|snow|surf,cold,Nov-Feb,3.7
+Bangkok,Egypt,Adventure,50863,adventure|wildlife|nature|food|trekking,humid,Oct-Dec,4.5
+Athens,Sri Lanka,Adventure,16991,adventure|relax|beach|food,alpine,Jul-Sep,3.9
+San Francisco,UK,Forest,26426,food|festival|shopping,humid,Jan-Mar,4.0
+Copenhagen,UK,Mountain,77127,wildlife|nature|temples,arid,Jul-Sep,4.5
+Darjeeling,Norway,Heritage,31318,adventure|heritage|surf|trekking,temperate,May-Sep,4.8
+Stockholm,Portugal,Backwater,29561,temples|nature|trekking|surf|snow,tropical,Oct-Dec,3.7
+Manali,Australia,Desert,24167,nightlife|heritage|festival,temperate,Nov-Feb,4.3
+Andaman & Nicobar,Egypt,City,33846,adventure|festival|scuba,tropical,Mar-May|Sep-Nov,4.8
+Oslo,Norway,Backwater,45278,relax|wildlife,mediterranean,Jan-Mar,4.6
+Banff,Indonesia,Backwater,41918,relax|shopping,continental,Nov-Feb,3.9
+Zagreb,Malaysia,Mountain,22595,romance|culture|beach,cold,Oct-Dec,3.9
+Marrakech,UK,Forest,12270,culture|wildlife|beach,humid,Apr-Jun,4.0
+Darwin,France,Adventure,38893,temples|shopping|beach|heritage|nightlife,tropical,Mar-May|Sep-Nov,3.9
+Kyoto,Brazil,Desert,30056,trekking|temples|snow|food,humid,Jul-Sep,3.9
+Kandy,Qatar,Beach,52515,nature|nightlife|festival|beach|culture,mediterranean,Apr-Jun,3.6
+Goa,Singapore,City,18295,food|temples,humid,Mar-May|Sep-Nov,4.3
+Santorini,Thailand,Hill,32714,trekking|food|adventure,subarctic,May-Sep,4.3
+Doha,South Africa,City,88706,snow|scuba|beach|culture,subarctic,Apr-Jun,4.1
+Vancouver,China,Heritage,82798,wildlife|shopping|culture|nature|festival,cold,Nov-Feb,4.1
+Busan,Russia,Island,64918,scuba|snow,continental,May-Sep,3.8
+Edinburgh,Vietnam,Backwater,43198,culture|surf|adventure|shopping|food,temperate,Mar-May|Sep-Nov,3.6
+New York,Ireland,Forest,27044,surf|beach|snow|heritage|food,arid,May-Sep,5.0
+Seychelles,UK,Hill,93351,trekking|wildlife|romance,tropical,Mar-May|Sep-Nov,4.9
+Manchester,Egypt,Island,23281,wildlife|snow|relax|nightlife|festival,alpine,Mar-May|Sep-Nov,4.7
+Hawaii,Germany,Island,59537,food|snow|romance,humid,Oct-Dec,4.1
+Queenstown,Cambodia,Backwater,85998,shopping|food|scuba,temperate,Mar-May|Sep-Nov,4.9
+Jerusalem,France,Adventure,27261,wildlife|adventure|romance|relax|scuba,temperate,May-Sep,4.7
+Athens,UK,Heritage,86428,trekking|romance|festival|relax|nature,tropical,Jul-Sep,3.7
+London,Nepal,Adventure,51114,romance|beach,cold,Nov-Feb,5.0
+Santorini,South Korea,Heritage,43354,wildlife|culture|surf|temples,mediterranean,Jul-Sep,4.8
+Siem Reap,USA,Mountain,36126,beach|heritage,humid,Oct-Dec,4.6
+Rome,Greece,Beach,26763,culture|scuba|nightlife,subarctic,Oct-Dec,4.3
+Andaman & Nicobar,Australia,Island,80738,temples|snow|wildlife,temperate,Nov-Feb,4.9
+Melbourne,UAE,Hill,91285,heritage|scuba|shopping|trekking,humid,Apr-Jun,4.0
+Moscow,Greece,Heritage,58846,culture|nightlife|festival,arid,Mar-May|Sep-Nov,4.1
+Birmingham,UAE,Adventure,86230,romance|scuba,tropical,Apr-Jun,4.3
+Vienna,Fiji,Mountain,55389,nature|shopping,continental,Mar-May|Sep-Nov,4.6
+Siem Reap,Vietnam,Adventure,67530,heritage|scuba|wildlife|festival|shopping,cold,Oct-Dec,3.7
+Vienna,Jordan,Backwater,82507,nightlife|scuba,mediterranean,Mar-May|Sep-Nov,4.3
+Stockholm,Singapore,Backwater,90687,relax|nightlife|festival|shopping,tropical,Oct-Dec,4.3
+Amsterdam,USA,Desert,42708,beach|heritage|nature,cold,Jan-Mar,3.8
+Reykjavik,Egypt,Adventure,38519,shopping|adventure|snow|beach,alpine,Oct-Dec,4.7
+Amsterdam,USA,Beach,75710,romance|culture|snow,mediterranean,May-Sep,4.4
+Hong Kong,Qatar,Beach,88006,culture|trekking|nature|festival|nightlife,temperate,Jul-Sep,3.8
+Rio de Janeiro,Qatar,Beach,68608,wildlife|shopping,temperate,Apr-Jun,4.3
+Birmingham,Russia,Mountain,19407,wildlife|shopping|beach|nightlife|food,mediterranean,Jan-Mar,4.0
+Petra,Thailand,Desert,16416,nightlife|nature|snow|trekking,continental,Mar-May|Sep-Nov,4.6
+Goa,Cambodia,Desert,52083,relax|heritage|romance,mediterranean,Mar-May|Sep-Nov,4.7
+Moscow,Turkey,Heritage,92252,shopping|beach,tropical,Jan-Mar,3.6
+Maldives,Indonesia,City,56742,heritage|relax|snow|nightlife,arid,May-Sep,4.0
+Baliem Valley,UAE,Desert,67958,snow|romance|shopping|surf|beach,alpine,Mar-May|Sep-Nov,3.6
+Rome,India,Desert,13183,nightlife|nature|shopping|romance|wildlife,subarctic,Oct-Dec,3.6
+Prague,Cambodia,Beach,81780,snow|festival|adventure|culture|heritage,tropical,Mar-May|Sep-Nov,3.9
+Auckland,Sri Lanka,Adventure,63039,nature|relax|snow|adventure|festival,temperate,Jan-Mar,4.3
+Stockholm,France,Forest,15873,festival|nature|nightlife|romance,continental,Jan-Mar,4.5
+Bangkok,Denmark,Forest,38680,beach|nature|romance|nightlife|trekking,tropical,May-Sep,3.9
+Beijing,Denmark,City,98981,nature|food|relax|shopping,subarctic,May-Sep,4.7
+Bangkok,Russia,Backwater,60055,adventure|surf|scuba|wildlife,tropical,Oct-Dec,4.0
+Phuket,Egypt,Backwater,37756,festival|scuba|trekking,cold,May-Sep,4.3
+Liverpool,Egypt,Heritage,21670,temples|culture|surf|snow|relax,arid,Apr-Jun,3.7
+Barcelona,Vietnam,Backwater,93472,surf|festival|nightlife|temples|beach,subarctic,Apr-Jun,4.5
+Seychelles,India,Forest,48050,relax|nature|wildlife,tropical,May-Sep,4.4
+Istanbul,Taiwan,Mountain,86055,shopping|surf|beach,mediterranean,Nov-Feb,4.4
+Tokyo,New Zealand,Island,17016,festival|beach|adventure|nightlife|food,continental,Mar-May|Sep-Nov,4.4
+Muscat,France,Mountain,60248,wildlife|trekking|snow|festival,tropical,Jan-Mar,4.4
+Phuket,Russia,Island,27250,nature|culture|snow|wildlife|adventure,continental,Apr-Jun,4.3
+Sydney,Japan,City,65926,snow|beach|surf|nightlife,mediterranean,Mar-May|Sep-Nov,4.4
+Zagreb,India,Hill,69668,adventure|nature|wildlife|food|beach,subarctic,Nov-Feb,3.8
+Perth,France,Mountain,60013,shopping|temples|relax,tropical,Oct-Dec,3.9
+Birmingham,Ireland,Adventure,47433,shopping|nightlife|temples|adventure|scuba,tropical,Nov-Feb,4.4
+Hawaii,Sri Lanka,Beach,39604,surf|wildlife|snow|scuba,temperate,Jan-Mar,3.9
+Rajasthan,Ireland,Adventure,94745,festival|adventure,alpine,Mar-May|Sep-Nov,4.0
+Hong Kong,Turkey,Desert,49879,culture|festival|wildlife|heritage|snow,mediterranean,Oct-Dec,4.6
+Athens,India,Adventure,43110,romance|surf|relax|scuba,humid,Nov-Feb,3.6
+Dubrovnik,Portugal,Adventure,59599,romance|culture|adventure,alpine,Oct-Dec,4.2
+Udaipur,Denmark,Island,27918,wildlife|scuba|culture|romance|shopping,tropical,Apr-Jun,4.2
+Auckland,Australia,City,47415,nightlife|wildlife|scuba|nature,humid,Mar-May|Sep-Nov,4.0
+Barcelona,Mauritius,Mountain,47732,beach|culture,continental,Jan-Mar,3.5
+Wellington,Fiji,Mountain,15018,shopping|trekking|adventure|romance|nightlife,mediterranean,Jul-Sep,4.5
+Siem Reap,Singapore,Backwater,82985,scuba|nature|adventure|surf|festival,cold,Nov-Feb,4.1
+Goa,Denmark,Adventure,94040,temples|adventure|surf,subarctic,Mar-May|Sep-Nov,5.0
+Rio de Janeiro,Cambodia,Heritage,63455,nature|surf,continental,Mar-May|Sep-Nov,3.7
+Bali,Japan,Hill,29036,romance|nightlife,arid,Oct-Dec,5.0
+Sydney,Norway,Backwater,18815,trekking|wildlife,mediterranean,Oct-Dec,3.9
+Cairo,France,Beach,48669,relax|temples,cold,May-Sep,4.4
+Dubai,Canada,Beach,56268,wildlife|heritage|nature,humid,Jan-Mar,4.6
+Athens,Jordan,Adventure,11766,temples|adventure|snow|shopping,arid,Jul-Sep,4.5
+Darjeeling,Greece,Hill,96022,culture|festival,subarctic,May-Sep,5.0
+Kerala,Switzerland,City,98572,nightlife|adventure,continental,May-Sep,3.7
+Andaman & Nicobar,Greece,Beach,41691,wildlife|shopping|adventure|snow,tropical,Jan-Mar,4.6
+Auckland,Maldives,Backwater,99080,temples|relax|shopping,humid,Mar-May|Sep-Nov,3.7
+Fiji,France,Heritage,22289,festival|scuba,mediterranean,Jul-Sep,3.6
+Baliem Valley,Russia,Forest,67230,nightlife|festival|adventure,mediterranean,Oct-Dec,4.6
+San Francisco,South Korea,Adventure,34699,romance|food|trekking,arid,Apr-Jun,3.6
+Colombo,Nepal,Backwater,13086,heritage|culture,cold,May-Sep,3.9
+Moscow,Mauritius,Backwater,17669,wildlife|surf,subarctic,Apr-Jun,4.3
+Ladakh,UK,Beach,82199,culture|snow,subarctic,Jan-Mar,4.4
+Wellington,Ireland,Mountain,13100,nightlife|relax,continental,Mar-May|Sep-Nov,4.9
+Ho Chi Minh City,India,Island,65120,romance|surf|nightlife|festival,continental,May-Sep,4.9
+Maldives,UAE,Island,13186,romance|nightlife,continental,Mar-May|Sep-Nov,3.5
+Vienna,Germany,Heritage,14126,heritage|beach|shopping|food,humid,Apr-Jun,4.5
+Andaman & Nicobar,Vietnam,Desert,81184,festival|trekking,alpine,May-Sep,4.1
+Split,Japan,Mountain,10668,heritage|snow|nature|culture,arid,Jul-Sep,3.7
+Cairo,Malaysia,Island,85000,snow|relax|trekking|nature,temperate,Apr-Jun,4.7
+Antalya,Mauritius,Beach,83272,heritage|adventure|beach,mediterranean,Jan-Mar,4.4
+Los Angeles,Ireland,Backwater,15949,shopping|surf,cold,May-Sep,4.0
+Kathmandu,Ireland,Desert,94491,nature|beach|adventure|festival|surf,arid,Mar-May|Sep-Nov,4.4
+Muscat,China,City,32040,nightlife|scuba|snow,mediterranean,Nov-Feb,3.6
+Kathmandu,France,Backwater,85008,snow|nightlife,mediterranean,Nov-Feb,3.7
+Marrakech,Nepal,Desert,82464,beach|culture|romance,mediterranean,May-Sep,4.3
+Vienna,Canada,Adventure,58206,relax|snow|wildlife,humid,Mar-May|Sep-Nov,4.3
+Bora Bora,India,Adventure,91412,wildlife|trekking|nature,humid,Oct-Dec,3.7
+Chiang Mai,Turkey,Adventure,42399,festival|heritage,alpine,May-Sep,3.9
+Tokyo,Maldives,City,66122,beach|snow,temperate,May-Sep,3.9
+Cape Town,Italy,City,55328,relax|romance,alpine,May-Sep,4.5
+Kyoto,UAE,Island,26445,shopping|nature|temples|surf,temperate,Jul-Sep,4.8
+Baliem Valley,Germany,Backwater,88205,culture|temples,subarctic,Oct-Dec,3.6
+Kerala,Turkey,Backwater,39680,culture|temples|beach|surf|festival,continental,Jan-Mar,4.6
+Reykjavik,Spain,Backwater,94670,nightlife|temples,subarctic,Jan-Mar,4.8
+Male,Spain,Heritage,59757,beach|festival,tropical,Jan-Mar,4.3
+Lisbon,Ireland,Desert,62023,temples|romance|snow|surf|nightlife,continental,Jul-Sep,4.1
+Male,Spain,Heritage,31121,scuba|nightlife|beach|nature|temples,subarctic,Oct-Dec,4.9
+Pokhara,Singapore,Mountain,26759,wildlife|trekking,humid,Oct-Dec,4.2
+Tainan,South Africa,Backwater,91818,temples|festival,temperate,Jul-Sep,4.5
+Shanghai,Russia,Beach,59731,wildlife|temples|heritage|beach,mediterranean,Oct-Dec,3.7
+Vienna,Spain,Adventure,43395,culture|surf,subarctic,Jan-Mar,4.9
+Mauritius,Taiwan,Desert,44843,scuba|nature|food|culture|surf,subarctic,Jan-Mar,3.9
+Darjeeling,Turkey,Heritage,86831,romance|snow|culture|food|surf,tropical,Mar-May|Sep-Nov,4.8
+Los Angeles,Morocco,Adventure,43806,romance|nightlife|shopping,humid,Jul-Sep,4.5
+Udaipur,Maldives,Backwater,60911,nightlife|culture|romance,arid,Jul-Sep,3.9
+Abu Dhabi,Mauritius,City,40441,heritage|festival|temples|adventure,humid,Apr-Jun,4.8
+Wellington,Malaysia,Heritage,76586,relax|scuba|romance|snow|trekking,tropical,May-Sep,5.0
+Belfast,Egypt,Mountain,10271,food|relax|nightlife|snow,temperate,Apr-Jun,4.5
+Copenhagen,India,Beach,98716,romance|snow,humid,May-Sep,4.5
+Brighton,Spain,Hill,52170,wildlife|nature|trekking,arid,Jul-Sep,4.3
+Santorini,Oman,Desert,25450,adventure|trekking,temperate,Oct-Dec,4.7
+Mauritius,Sri Lanka,Island,63734,scuba|relax|wildlife,temperate,Jul-Sep,3.6
+Los Angeles,USA,City,84301,trekking|relax|snow|scuba|romance,continental,Mar-May|Sep-Nov,3.9
+Ho Chi Minh City,Spain,Island,41805,temples|shopping|heritage,subarctic,Oct-Dec,4.1
+Wellington,Greece,Forest,10940,nature|temples|beach|nightlife,alpine,Jan-Mar,5.0
+Phnom Penh,Russia,Desert,91036,relax|snow|shopping,alpine,Mar-May|Sep-Nov,4.7
+Kuala Lumpur,India,Backwater,99353,beach|nightlife|relax|shopping|temples,cold,Apr-Jun,3.6
+Andaman & Nicobar,Sri Lanka,Beach,72710,nightlife|festival,humid,May-Sep,3.9
+Darjeeling,Vietnam,City,94029,beach|wildlife|adventure,mediterranean,Mar-May|Sep-Nov,4.0
+Muscat,Jordan,Hill,71697,culture|relax,cold,Apr-Jun,3.6
+Taipei,Brazil,Backwater,18843,adventure|shopping,temperate,Jan-Mar,3.9
+Bali,Qatar,Mountain,19663,snow|trekking,alpine,Oct-Dec,3.5
+Istanbul,Taiwan,Backwater,95186,shopping|temples|relax|scuba|festival,mediterranean,Nov-Feb,3.7
+Hanoi,Nepal,Desert,31821,wildlife|scuba|temples|heritage|beach,continental,Mar-May|Sep-Nov,3.7
+Cape Town,Sri Lanka,Heritage,68876,festival|adventure|temples|snow|relax,tropical,Jul-Sep,4.2
+Venice,Morocco,City,38539,nature|food|surf|shopping|culture,subarctic,Oct-Dec,4.9
+Budapest,Qatar,Adventure,84636,culture|nightlife|beach|wildlife|romance,subarctic,Oct-Dec,4.2
+Manchester,China,Hill,84952,scuba|nature|heritage,tropical,Jan-Mar,4.6
+Vancouver,Vietnam,Mountain,27654,culture|heritage|shopping|festival|scuba,continental,May-Sep,4.9
+Queenstown,China,Adventure,42746,adventure|heritage|romance,mediterranean,May-Sep,4.9
+Dublin,China,Desert,74395,scuba|trekking,arid,Nov-Feb,3.8
+Zagreb,Mauritius,Mountain,14225,temples|culture|beach|nature,humid,Nov-Feb,4.3
+Jerusalem,Japan,Island,79503,adventure|food|beach,humid,Jan-Mar,5.0
+Kandy,South Africa,Island,99608,nightlife|temples|romance|culture,arid,Apr-Jun,4.4
+Dublin,Cambodia,Heritage,23952,nightlife|adventure|wildlife,subarctic,Apr-Jun,4.7
+Colombo,Sri Lanka,Hill,56622,festival|romance|culture,mediterranean,Jan-Mar,4.7
+Rome,Cambodia,Backwater,71359,relax|nightlife|scuba,temperate,Apr-Jun,3.5
+Cape Town,Maldives,Beach,41713,beach|trekking|snow,tropical,Apr-Jun,4.5
+New York,Thailand,Heritage,11243,nightlife|temples|scuba|heritage|food,subarctic,Jul-Sep,3.9
+Perth,Indonesia,Desert,99690,temples|surf,humid,Jan-Mar,4.1
+Sydney,France,Backwater,56382,snow|festival,tropical,May-Sep,3.8

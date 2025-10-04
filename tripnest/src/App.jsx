@@ -8,6 +8,7 @@ import Destinations from "./pages/Destinations";
 import Login from "./pages/Login1";
 import Signup from "./pages/Signup";
 import Home from "./pages/Home";
+import Recommend from "./pages/Recommend";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/destinations" element={<Destinations />} />
+          <Route path="/recommend" element={<Recommend />} />
          <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} /> 
         </Routes>
