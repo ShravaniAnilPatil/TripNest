@@ -18,6 +18,7 @@ const Navbar = () => {
           <Link to="/" className="hover:text-blue-500">Home</Link>
           <Link to="/features" className="hover:text-blue-500">Features</Link>
           <Link to="/recommend" className="hover:text-blue-500">SmartGuide</Link>
+          <Link to="/blogs" className="hover:text-blue-500">Blogs</Link>
           <Link to="/destinations" className="hover:text-blue-500">Destinations</Link>
           <Link to="/login" className="hover:text-blue-500">Login</Link>
           
@@ -38,6 +39,8 @@ const Navbar = () => {
         >
           <Link to="/" onClick={() => setNavOpen(false)}>Home</Link>
           <Link to="/features" onClick={() => setNavOpen(false)}>Features</Link>
+          <Link to="/recommend" onClick={() => setNavOpen(false)}>SmartGuide</Link>
+          <Link to="/blogs" onClick={() => setNavOpen(false)}>Blogs</Link>
           <Link to="/destinations" onClick={() => setNavOpen(false)}>Destinations</Link>
           <Link to="/contact" onClick={() => setNavOpen(false)}>Contact</Link>
         </motion.div>
