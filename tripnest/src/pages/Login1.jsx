@@ -4,11 +4,35 @@ const Login = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    alert(`Email: ${email}\nPassword: ${password}`);
-    // Here you can add backend integration later
-  };
+const handleSubmit = async (e) => {
+  e.preventDefault();
+
+  try {
+    const res = await fetch('http://localhost:3000/api/auth/login', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ email, password }),
+    });
+
+    const data = await res.json();
+
+    if (res.ok) {
+      alert(`Login successful! Welcome ${data.user.name}`);
+      // Save user info or token here
+      localStorage.setItem('user', JSON.stringify(data.user));
+      // Redirect to homepage
+      window.location.href = '/';
+    } else {
+      alert(`Error: ${data.message}`);
+    }
+  } catch (err) {
+    console.error(err);
+    alert('Server error');
+  }
+};
+
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50 px-4">

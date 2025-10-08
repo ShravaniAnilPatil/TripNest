@@ -5,11 +5,33 @@ const Signup = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    alert(`Name: ${name}\nEmail: ${email}\nPassword: ${password}`);
-    // Backend integration can be added here
-  };
+const handleSubmit = async (e) => {
+  e.preventDefault();
+  
+  try {
+    const res = await fetch('http://localhost:3000/api/auth/register', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ name, email, password }),
+    });
+
+    const data = await res.json();
+
+    if (res.ok) {
+      alert(`Signup successful! Welcome ${data.user.name}`);
+      // Redirect to login page
+      window.location.href = '/login';
+    } else {
+      alert(`Error: ${data.message}`);
+    }
+  } catch (err) {
+    console.error(err);
+    alert('Server error');
+  }
+};
+
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50 px-4">
